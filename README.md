@@ -1,4 +1,4 @@
-<img width="1919" height="831" alt="image" src="https://github.com/user-attachments/assets/1c3ce82b-a562-4a62-b2f2-492b4a082502" />
+<img width="1919" height="829" alt="image" src="https://github.com/user-attachments/assets/5563d165-37a5-49c2-a603-08d7a29ba07b" />
 # 🛡️ CRIMEVERSE ENTERPRISE 2.0
 **Unified Crime Intelligence & Autonomous Case Management Platform** *(Built for Smart India Hackathon 2026)*
 
